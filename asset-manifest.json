@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.baadfb3a.chunk.js": "/Epic-website/static/js/0.baadfb3a.chunk.js",
+    "static/js/0.baadfb3a.chunk.js.map": "/Epic-website/static/js/0.baadfb3a.chunk.js.map",
+    "static/js/1.477883a8.chunk.js": "/Epic-website/static/js/1.477883a8.chunk.js",
+    "static/js/1.477883a8.chunk.js.map": "/Epic-website/static/js/1.477883a8.chunk.js.map",
+    "main.css": "/Epic-website/static/css/main.ad2ff333.chunk.css",
+    "main.js": "/Epic-website/static/js/main.fe756b80.chunk.js",
+    "main.js.map": "/Epic-website/static/js/main.fe756b80.chunk.js.map",
+    "runtime-main.js": "/Epic-website/static/js/runtime-main.9f28fbbb.js",
+    "runtime-main.js.map": "/Epic-website/static/js/runtime-main.9f28fbbb.js.map",
+    "static/css/4.969b5337.chunk.css": "/Epic-website/static/css/4.969b5337.chunk.css",
+    "static/js/4.76c69729.chunk.js": "/Epic-website/static/js/4.76c69729.chunk.js",
+    "static/js/4.76c69729.chunk.js.map": "/Epic-website/static/js/4.76c69729.chunk.js.map",
+    "static/js/5.59dfbc06.chunk.js": "/Epic-website/static/js/5.59dfbc06.chunk.js",
+    "static/js/5.59dfbc06.chunk.js.map": "/Epic-website/static/js/5.59dfbc06.chunk.js.map",
+    "static/js/6.14587fd4.chunk.js": "/Epic-website/static/js/6.14587fd4.chunk.js",
+    "static/js/6.14587fd4.chunk.js.map": "/Epic-website/static/js/6.14587fd4.chunk.js.map",
+    "static/js/7.0f767999.chunk.js": "/Epic-website/static/js/7.0f767999.chunk.js",
+    "static/js/7.0f767999.chunk.js.map": "/Epic-website/static/js/7.0f767999.chunk.js.map",
+    "static/js/8.4f687674.chunk.js": "/Epic-website/static/js/8.4f687674.chunk.js",
+    "static/js/8.4f687674.chunk.js.map": "/Epic-website/static/js/8.4f687674.chunk.js.map",
+    "static/js/9.d1e56ad1.chunk.js": "/Epic-website/static/js/9.d1e56ad1.chunk.js",
+    "static/js/9.d1e56ad1.chunk.js.map": "/Epic-website/static/js/9.d1e56ad1.chunk.js.map",
+    "static/js/10.690b37bb.chunk.js": "/Epic-website/static/js/10.690b37bb.chunk.js",
+    "static/js/10.690b37bb.chunk.js.map": "/Epic-website/static/js/10.690b37bb.chunk.js.map",
+    "static/js/11.13eab35c.chunk.js": "/Epic-website/static/js/11.13eab35c.chunk.js",
+    "static/js/11.13eab35c.chunk.js.map": "/Epic-website/static/js/11.13eab35c.chunk.js.map",
+    "index.html": "/Epic-website/index.html",
+    "precache-manifest.2f12e26e057019ec4e5521f226ce6aa0.js": "/Epic-website/precache-manifest.2f12e26e057019ec4e5521f226ce6aa0.js",
+    "service-worker.js": "/Epic-website/service-worker.js",
+    "static/css/4.969b5337.chunk.css.map": "/Epic-website/static/css/4.969b5337.chunk.css.map",
+    "static/css/main.ad2ff333.chunk.css.map": "/Epic-website/static/css/main.ad2ff333.chunk.css.map",
+    "static/js/4.76c69729.chunk.js.LICENSE.txt": "/Epic-website/static/js/4.76c69729.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f28fbbb.js",
+    "static/css/4.969b5337.chunk.css",
+    "static/js/4.76c69729.chunk.js",
+    "static/css/main.ad2ff333.chunk.css",
+    "static/js/main.fe756b80.chunk.js"
+  ]
+}
